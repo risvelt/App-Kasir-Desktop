@@ -1,0 +1,111 @@
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.AssemblyReference.cache
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormLogin.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMenuUtama.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.GenerateResource.cache
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.GeneratedMSBuildEditorConfig.editorconfig
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.AssemblyInfoInputs.cache
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.AssemblyInfo.vb
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.CoreCompileInputs.cache
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.exe
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.deps.json
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.runtimeconfig.json
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.pdb
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.CopyComplete
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\refint\AppPenjualan.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.pdb
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.genruntimeconfig.cache
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\ref\AppPenjualan.dll
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMasterAdmin.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.Resources.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMasterPelanggan.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormGantiPassword.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormLapDataMaster.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormLapJual.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMasterBarang.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormTransJual.resources
+D:\mata kuliah\semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormTransRetur.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.exe
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.deps.json
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.runtimeconfig.json
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.pdb
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.AssemblyReference.cache
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormGantiPassword.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormLapDataMaster.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormLapJual.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormLogin.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMasterAdmin.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMasterBarang.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMasterPelanggan.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMenuUtama.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormTransJual.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormTransRetur.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.Resources.resources
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.AssemblyInfo.vb
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.CopyComplete
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\refint\AppPenjualan.dll
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.pdb
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.genruntimeconfig.cache
+D:\Kuliah\Semester 4\PBD\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\ref\AppPenjualan.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.exe
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.deps.json
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.runtimeconfig.json
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\AppPenjualan.pdb
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.AssemblyReference.cache
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormGantiPassword.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormLapDataMaster.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormLapJual.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormLogin.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMasterAdmin.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMasterBarang.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMasterPelanggan.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormMenuUtama.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormTransJual.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.FormTransRetur.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.Resources.resources
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.GenerateResource.cache
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.AssemblyInfoInputs.cache
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.AssemblyInfo.vb
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.CoreCompileInputs.cache
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.vbproj.CopyComplete
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\refint\AppPenjualan.dll
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.pdb
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\AppPenjualan.genruntimeconfig.cache
+D:\Project Visual Studio\FP\AppPenjualan\AppPenjualan\obj\Debug\net6.0-windows\ref\AppPenjualan.dll
